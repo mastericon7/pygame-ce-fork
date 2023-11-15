@@ -7,7 +7,7 @@
 |PyPiVersion| |PyPiLicense|
 |Python3| |GithubCommits| |BlackFormatBadge|
 
-**English** `简体中文`_ `Français`_ `فارسی`_ `Español`_
+**English**
 ---------------------------------------------------------------------------------------------------
 
 Pygame_ is a free and open-source cross-platform library
